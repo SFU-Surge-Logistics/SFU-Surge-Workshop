@@ -1,8 +1,8 @@
 # Github Workshop
 
 ## Github Workshop Figma
- 
-https://www.figma.com/file/XL9PJ4KMlwLNDx09VzW7Db/Intro-to-Web-Dev-%2F-React-Workshop?node-id=0%3A1&t=LcIMxXwATPcFm8WM-1
+
+https://www.figma.com/file/GIhV7A860uBzDGog9wC2gA/JourneyHacks%3A-Intro-to-Github?type=design&node-id=0%3A1&mode=design&t=Il5d9wkWU7Uc7eKR-1
 
 ## Git Resources
 
